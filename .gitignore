@@ -1,0 +1,19 @@
+# GitIgnore para eclipse
+.classpath
+.project
+.settings/
+bin/
+
+#ocupan espacio
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.mkv
+*.mp4
+*.flv
+*.mp3
+*.avi
+
+
+
